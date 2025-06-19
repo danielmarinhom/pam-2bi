@@ -1,0 +1,6 @@
+@pam_HostAddress = http://localhost:5125
+
+GET {{pam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

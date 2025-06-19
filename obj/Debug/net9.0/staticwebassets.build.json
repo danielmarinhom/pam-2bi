@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "giZ8hItjuHKytI0hzUoZF3ryM2ymmNLh5i2z3JoY/J8=",
+  "Source": "pam",
+  "BasePath": "_content/pam",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
