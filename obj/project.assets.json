@@ -4024,11 +4024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Área de Trabalho\\pam\\pam.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Área de Trabalho\\pam-2bi\\pam.csproj",
       "projectName": "pam",
-      "projectPath": "C:\\Users\\danie\\Área de Trabalho\\pam\\pam.csproj",
+      "projectPath": "C:\\Users\\danie\\Área de Trabalho\\pam-2bi\\pam.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Área de Trabalho\\pam\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Área de Trabalho\\pam-2bi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\VisualStudio_Components\\NuGetPackages"
