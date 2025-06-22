@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\pam.csproj": {}
+    "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\pam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\pam.csproj": {
+    "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\pam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\pam.csproj",
+        "projectUniqueName": "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\pam.csproj",
         "projectName": "pam",
-        "projectPath": "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\pam.csproj",
+        "projectPath": "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\pam.csproj",
         "packagesPath": "C:\\Users\\mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\obj\\",
+        "outputPath": "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

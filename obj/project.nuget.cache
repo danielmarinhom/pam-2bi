@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yw5HNWfk7QI=",
+  "dgSpecHash": "GSun6Ne/syA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mende\\Downloads\\pam-2bi-main\\pam-2bi-main\\pam.csproj",
+  "projectFilePath": "C:\\Users\\mende\\Desktop\\daniel\\pam-2bi\\pam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mende\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mende\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
